@@ -1,5 +1,5 @@
 
-## Olá me chamo João, sempre fui apaixonado por tecnologia, estou sempre estudando sobre e de vez em quando fazendo alguns projetos bem legais! 
+## Olá, me chamo João, sempre fui apaixonado por tecnologia, estou sempre estudando sobre e de vez em quando fazendo alguns projetos bem legais! 
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.cmf23@gmail.com)
